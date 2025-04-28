@@ -1,8 +1,8 @@
 # Venezuelan Primera División 2025 – Dashboard Project
 
-This project builds a complete dashboard for the **2025 Venezuelan Primera División** season.
+This project builds an educational dashboard for the **2025 Venezuelan Primera División** season, the first tear in venezuelan football.
 
-Using Python and Power BI, I collected match and player data, cleaned it, and organized it into a structured model.  
+I collected match and player data, cleaned it, and organized it.  
 The final dashboard tracks team performances, player stats, goals, wins, losses, and standings across the season.
 
 ---
@@ -30,7 +30,7 @@ Main steps to achieve the final dashboard:
 
 - **Python** (for web scraping)
 - **Power Query** (for ETL)
-- **Power BI** (for modeling and dashboarding)
+- **Power BI** (for modeling and making the dashboard)
 
 ---
 
@@ -39,12 +39,4 @@ Main steps to achieve the final dashboard:
 ✅ Web scraping completed  
 ✅ Data model created  
 ✅ Dashboard built  
-🔜 Additional player-focused pages (future work)
-
----
-
-## 📣 Contact
-
-Feel free to reach out if you want to discuss football analytics or dashboard building techniques!
-
----
+🔜 Additional team-focused/player-focused pages (future work)
