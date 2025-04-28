@@ -22,7 +22,7 @@ Main steps to achieve the final dashboard:
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/Dashboard_Futve_1.jpg)
+![Dashboard Overview](Screenshots/Dashboard_Futve_1.jpg)
 
 ---
 
