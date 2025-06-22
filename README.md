@@ -23,6 +23,10 @@ Main steps to achieve the final dashboard:
 ### Dashboard Overview
 
 ![Dashboard Overview](Screenshots/Dashboard_Futve_1.jpg)
+![Dashboard Overview](Screenshots/Dashboard_Futve_2.jpg)
+![Dashboard Overview](Screenshots/Dashboard_Futve_3.jpg)
+![Dashboard Overview](Screenshots/Dashboard_Futve_4.jpg)
+![Dashboard Overview](Screenshots/Dashboard_Futve_5.jpg)
 
 ---
 
